@@ -74,9 +74,9 @@ Check the live learning log → **[ahadiwasti.com](https://ahadiwasti.com)**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahadiwasti&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=1D9E75&icon_color=1D9E75&title_color=1D9E75&text_color=e8e8e8&hide_border=false)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahadiwasti&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=1D9E75&icon_color=1D9E75&title_color=1D9E75&text_color=e8e8e8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahadiwasti&layout=compact&theme=dark&bg_color=0a0a0a&border_color=1D9E75&title_color=1D9E75&text_color=e8e8e8)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahadiwasti&layout=compact&theme=dark&bg_color=0a0a0a&border_color=1D9E75&title_color=1D9E75&text_color=e8e8e8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahadiwasti&theme=dark&background=0a0a0a&border=1D9E75&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75)
 
