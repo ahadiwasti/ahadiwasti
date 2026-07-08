@@ -4,7 +4,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║   Senior Software Engineer · Building in public · 🥷     ║
+║               Senior Software Engineer                    ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -68,50 +68,11 @@ Check the live learning log → **[ahadiwasti.com](https://ahadiwasti.com)**
 | 🤖 AI Engineering | RAG, LLMs, vector DBs, LangChain |
 | ⚙️ Core Tech | Redis, Nginx, K8s, rate limiting, auth |
 
----
-
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahadiwasti&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=1D9E75&icon_color=1D9E75&title_color=1D9E75&text_color=e8e8e8)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahadiwasti&layout=compact&theme=dark&bg_color=0a0a0a&border_color=1D9E75&title_color=1D9E75&text_color=e8e8e8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahadiwasti&theme=dark&background=0a0a0a&border=1D9E75&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75)
-
-</div>
 
 
----
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahadiwasti/ahadiwasti/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahadiwasti/ahadiwasti/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ahadiwasti/ahadiwasti/output/github-snake.svg" />
-</picture>
 
----
 
-## 🚀 The Plan
-
-```
-Phase 1  ✅  Portfolio live — ahadiwasti.com
-              Static site, Markdown blog, auto-sync from GitHub
-
-Phase 2  🔨  chef.ahadiwasti.com
-              Next.js + FastAPI + PostgreSQL + AWS
-              Clean URLs, OG images, real backend
-
-Phase 3  📦  Open Source
-              Auth library (OAuth2, OpenID, RBAC)
-              Rate limiter, cache layer, and more
-
-Phase ∞  🥷  High-throughput, low-latency system
-              Built entirely in public
-```
-
----
 
 <div align="center">
 
