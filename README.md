@@ -39,28 +39,11 @@ Now going deeper into Python and AI Engineering.
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Expanding into:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
----
-
-## 📚 Learning in Public
-
-Every concept I learn gets documented and posted.  
-Check the live learning log → **[ahadiwasti.com](https://ahadiwasti.com)**
-
-| Category | What |
-|----------|------|
-| 🧮 DSA | Arrays, Trees, Graphs, DP — daily LeetCode |
-| 🏗 System Design | Distributed systems, databases, caching |
-| 🐍 Python | FastAPI, async patterns, ecosystem |
-| 🤖 AI Engineering | RAG, LLMs, vector DBs, LangChain |
-| ⚙️ Core Tech | Redis, Nginx, K8s, rate limiting, auth |
 
 
 
